@@ -49,7 +49,9 @@ The following **additional** features are implemented:
 
 #### Video Walkthrough
 
+Online mode 
 ![Alt Text](https://github.com/Marusya82/WeTweet/blob/master/WeTweet_online_demo.gif)
+Offline mode 
 ![Alt Text](https://github.com/Marusya82/WeTweet/blob/master/WeTweet_offline_demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
